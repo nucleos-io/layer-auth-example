@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="layer_app_id">layer:///apps/staging/6b2a0708-6b35-11e6-9adb-181c7d0c1206</string>
+</resources>
